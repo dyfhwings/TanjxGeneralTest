@@ -1,4 +1,4 @@
-package com.tanjx.test;
+package com.tanjx.base;
 
 import java.util.ArrayList;
 import java.util.Date;
