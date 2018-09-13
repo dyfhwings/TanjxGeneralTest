@@ -1,4 +1,4 @@
-package com.gooagoo.test.nio.selector;
+package com.gooagoo.test.socket;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
@@ -9,7 +9,7 @@ import java.nio.charset.Charset;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TestSelectorSocketServerChannel
+public class TestSocketServerChannel
 {
     private static Charset charset = Charset.forName("UTF-8");
 

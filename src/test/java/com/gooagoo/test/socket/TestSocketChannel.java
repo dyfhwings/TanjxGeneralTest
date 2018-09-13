@@ -1,4 +1,4 @@
-package com.gooagoo.test.nio.selector;
+package com.gooagoo.test.socket;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
@@ -9,7 +9,7 @@ import java.nio.charset.Charset;
 import com.alibaba.fastjson.JSON;
 import com.gooagoo.test.BuildData;
 
-public class TestSelectorSocketChannel
+public class TestSocketChannel
 {
     private static Charset charset = Charset.forName("UTF-8");
 
